@@ -1,4 +1,4 @@
-package com.israel.alumnos;
+package com.israel;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
